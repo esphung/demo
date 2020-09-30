@@ -1,5 +1,5 @@
 {
-  "posts": 
+  "categories": 
   [
     {
       "title": "Sports",
@@ -9,7 +9,7 @@
     },
     {
       "title": "Stuff",
-      "iconName": "globe",
+      "iconName": "rocket",
       "uuid": "7f23b0d9-3335-44be-b87d-0d0be7534150",
       "bgColor": "salmon"
     },
