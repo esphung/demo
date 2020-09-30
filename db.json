@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "title": "Sports",
+    "iconName": "running",
+    "uuid": "7f23b0d9-f085-44be-b87d-0d0be7534150",
+    "bgColor": "#ff8940"
+  },
+   {
+    "title": "Stuff",
+    "iconName": "globe",
+    "uuid": "7f23b0d9-3335-44be-b87d-0d0be7534150",
+    "bgColor": "salmon"
+  },
+   {
+    "title": "Things",
+    "iconName": "skiing",
+    "uuid": "7f23b0d9-f085-111e-b87d-0d0be7534150",
+    "bgColor": "steelblue"
+  },
+  {
+    "title": "Work",
+    "iconName": "clock",
+    "uuid": "3a18860d-2e1d-4dbe-9a1f-c7e47cbee085",
+    "bgColor": "#247778"
   }
-}
+]
