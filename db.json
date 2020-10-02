@@ -1,40 +1,90 @@
 {
-  "categories": [
+  "categories": 
+  [
     {
-      "bgColor": "#af0cea",
-      "iconName": "home",
-      "title": "Indoors",
-      "uuid": "fb78ab38-04e3-11eb-adc1-0242ac120002"
-    },
-    {
-      "bgColor": "#7b4d35",
-      "iconName": "tree",
-      "title": "Outdoors",
-      "uuid": "051e5c1e-04e4-11eb-adc1-0242ac120002"
-    },
-    {
-      "bgColor": "#f4db09",
-      "iconName": "atom",
-      "title": "Educational",
-      "uuid": "0894b6e0-04e4-11eb-adc1-0242ac120002"
-    },
-    {
-      "bgColor": "#b61f68",
-      "iconName": "archive",
-      "title": "Collection",
-      "uuid": "0c7731a2-04e4-11eb-adc1-0242ac120002"
-    },
-    {
-      "bgColor": "#bb2ef4",
-      "iconName": "trophy",
-      "title": "Competitive/Sports",
-      "uuid": "11c9e258-04e4-11eb-adc1-0242ac120002"
-    },
-    {
-      "bgColor": "#726dcf",
-      "iconName": "eye",
-      "title": "Observations",
-      "uuid": "155f46e2-04e4-11eb-adc1-0242ac120002"
-    }
-  ]
+    "bgColor": "#982c8b",
+    "iconName": "running",
+    "title": "Acrobatics",
+    "uuid": "6af715a0-99e1-426a-9363-601497153332"
+  },
+ {
+    "bgColor": "#798f52",
+    "iconName": "theater-masks",
+    "title": "Acting",
+    "uuid": "9c820d24-310c-4a61-864d-601497153332"
+  },
+ {
+    "bgColor": "#21fb68",
+    "iconName": "microphone",
+    "title": "Amateur radio",
+    "uuid": "ade26f09-430c-4da8-826a-601497153332"
+  },
+ {
+    "bgColor": "#4287f5",
+    "iconName": "paint-brush",
+    "title": "Animation",
+    "uuid": "c03668bd-600a-4511-b732-601497153332"
+  },
+ {
+    "bgColor": "#1c3ef1",
+    "iconName": "hand-sparkles",
+    "title": "Astrology",
+    "uuid": "86e5b6f7-712b-4dd3-abe7-601497153332"
+  },
+ {
+    "bgColor": "#b75751",
+    "iconName": "cookie-bite",
+    "title": "Baking",
+    "uuid": "9fe7c0f6-26ab-4e43-8f64-601497153332"
+  },
+ {
+    "bgColor": "#5676af",
+    "iconName": "newspaper",
+    "title": "Blogging",
+    "uuid": "812c2d9d-1ed5-479c-b4cc-601497153332"
+  },
+ {
+    "bgColor": "#210630",
+    "iconName": "chess-knight",
+    "title": "Board/tabletop games",
+    "uuid": "0c6fc62c-38b3-4b9d-92c8-601497153332"
+  },
+ {
+    "bgColor": "#eab01e",
+    "iconName": "book",
+    "title": "Book discussion clubs",
+    "uuid": "7c571c95-aaa7-45ae-aad9-601497153332"
+  },
+ {
+    "bgColor": "#77ada5",
+    "iconName": "book",
+    "title": "Book restoration",
+    "uuid": "15dfa5c5-7317-4688-ae33-601497153332"
+  },
+ {
+    "bgColor": "#59e227",
+    "iconName": "bowling-ball",
+    "title": "Bowling",
+    "uuid": "6f83e1a6-e451-4f4d-b7e1-601497153332"
+  },
+ {
+    "bgColor": "#d6c6d3",
+    "iconName": "signature",
+    "title": "Calligraphy",
+    "uuid": "eebc0731-4d77-486f-b837-601497153332"
+  },
+ {
+    "bgColor": "#37f2cc",
+    "iconName": "candy-cane",
+    "title": "Candy making",
+    "uuid": "be7f067c-e8cd-49b4-8f4c-601497153332"
+  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
